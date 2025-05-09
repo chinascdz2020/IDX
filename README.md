@@ -1,13 +1,21 @@
 ----------------------------------------------------------------------------------------------
 https://IDX.google.com
 
-```一键ArgoSB无交互脚本```
+```一键无交互脚本```
+
+```Android Studio Cloud```
+```Name```
+```Create```
+```Show Apps```
+```Terminal```
 ```
 sudo -i
 ```
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/chinascdz2020/IDX/refs/heads/main/argosb.sh)
 ```
+```一键无交互脚本(固定域名)```
+
 ```+New Workspace```
 ```+New Empty Workspace```
 ```Name```
